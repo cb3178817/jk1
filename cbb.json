@@ -5,10 +5,10 @@
 
 
  {"key": "豆瓣","name": "豆瓣┃搜索","type": 1,"api": "./js/drpy2.min.js","ext": "./js/douban.js"},
-{"key":"aqy","name":"11(官)","type":3,"api":"./lib1/drpy2.min.js","ext":"./js/aiqiyi.js"},
-        {"key":"yk","name":"12(官)","type":1,"api":"./lib1/drpy2.min.js","ext":"./js/youku.js"},
-        {"key":"tx","name":"13(官)","type":0,"api":"./lib1/drpy2.min.js","ext":"./js/tengxun.js"},
-        {"key":"mg","name":"14(官)","type":0,"api":"./lib1/drpy2.min.js","ext":"./js/mangguo.js"},
+{"key":"aqy","name":"11(官)","type":3,"api":"./drpy2.min.js","ext":"./js/aiqiyi.js"},
+        {"key":"yk","name":"12(官)","type":3,"api":"./drpy2.min.js","ext":"./js/youku.js"},
+        {"key":"tx","name":"13(官)","type":3,"api":"./drpy2.min.js","ext":"./js/tengxun.js"},
+        {"key":"mg","name":"14(官)","type":3,"api":"./drpy2.min.js","ext":"./js/mangguo.js"},
     {
       "key": "drpy_js_豆瓣",
       "name": "豆┃搜索",
