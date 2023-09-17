@@ -2,10 +2,12 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
   "spider": "./XYQ.jar;md5;703971fa0a5048fdf567245d4d4e1b06",
   "sites": [
- 
+
+ {"key": "豆瓣","name": "豆瓣┃搜索","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+
     {
       "key": "drpy_js_豆瓣",
-      "name": "豆瓣┃搜索",
+      "name": "豆┃搜索",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/drpy.js"
