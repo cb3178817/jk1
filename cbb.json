@@ -4,7 +4,16 @@
   "sites": [
 
 
- {"key": "豆瓣","name": "豆瓣┃搜索","type": 1,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
+ {"key": "豆瓣","name": "豆瓣┃搜索","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
+ {"key": "360","name": "360┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
+{"key": "kuyun","name": "酷云┃77","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷云77.js"},
+		    {
+      "key": "drpy_js_机器人",
+      "name": "爱看|影视",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+    },  
 
     {
       "key": "drpy_js_奇珍异兽",
@@ -88,7 +97,21 @@
       "filterable": 1,
       "ext": "./json/农民影视.json"
     },
-
+	 {
+      "key": "drpy_js_爱弹幕",
+      "name": "动漫|爱弹幕",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/爱弹幕.js"
+    },
+	
+		   {
+      "key": "drpy_js_NT动漫",
+      "name": "动漫|NT",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/NT动漫.js"
+    },
 
     {
       "key": "csp_Bili",
@@ -101,16 +124,6 @@
       "ext": "./json/Bili.json"
     },
 
-	    {
-      "key": "csp_Bili",
-      "name": "哔哩┃健身",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/jianshen.json"
-    },
     {
       "key": "csp_Bili幼儿",
       "name": "幼儿┃早教",
