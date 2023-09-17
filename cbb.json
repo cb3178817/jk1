@@ -100,6 +100,17 @@
       "filterable": 1,
       "ext": "./json/Bili.json"
     },
+
+	    {
+      "key": "csp_Bili",
+      "name": "哔哩┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jianshen.json"
+    },
     {
       "key": "csp_Bili幼儿",
       "name": "幼儿┃早教",
