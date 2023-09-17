@@ -5,7 +5,10 @@
 
 
  {"key": "豆瓣","name": "豆瓣┃搜索","type": 3,"api": "./js/drpy2.min.js","ext": "./js/douban.js"},
-
+{"key":"爱奇异","name":"🥝爱奇艺(官)","type":3,"api":"./lib1/drpy2.min.js","ext":"./js/aiqiyi.js"},
+        {"key":"优酷","name":"👑优酷(官)","type":3,"api":"./lib1/drpy2.min.js","ext":"./js/youku.js"},
+        {"key":"腾讯","name":"🐧腾讯(官)","type":3,"api":"./lib1/drpy2.min.js","ext":"./js/tengxun.js"},
+        {"key":"芒果","name":"🥭芒果(官)","type":3,"api":"./lib1/drpy2.min.js","ext":"./js/mangguo.js"},
     {
       "key": "drpy_js_豆瓣",
       "name": "豆┃搜索",
