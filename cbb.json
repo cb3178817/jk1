@@ -108,7 +108,7 @@
       "filterable": 1,
       "ext": "./json/玩偶哥哥.json"
     },
-	  {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
+	  {"key": "csp_FanYY","name": "玩偶┃影视","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"},
 	 {
       "key": "drpy_js_爱弹幕",
       "name": "动漫|爱弹幕",
