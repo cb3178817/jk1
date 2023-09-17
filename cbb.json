@@ -144,28 +144,7 @@
       "filterable": 1,
       "ext": "./json/少儿教育.json"
     },
-    {
-      "key": "csp_Bili小学",
-      "name": "小学┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/小学课堂.json"
-    },
 
-    {
-      "key": "csp_Bili高中",
-      "name": "高中┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./json/高中课堂.json"
-    },
-   
     {
       "key": "csp_XYQHiker_兔小贝",
       "name": "兔小贝┃早教",
@@ -196,6 +175,38 @@
       "filterable": 1,
       "ext": "./json/播视童趣.json"
     },
+
+	      {
+      "key": "csp_Bili小学",
+      "name": "小学┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/小学课堂.json"
+    },
+    {
+      "key": "csp_Bili小学",
+      "name": "初中┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/初中课堂.json"
+    },
+    {
+      "key": "csp_Bili高中",
+      "name": "高中┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/高中课堂.json"
+    },
+	  
    {
       "key": "csp_XYQHiker_斗鱼直播",
       "name": "斗鱼┃直播",
