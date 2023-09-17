@@ -163,18 +163,6 @@
       "ext": "./json/兔小贝2.json"
     },
 
-
-    {
-      "key": "csp_XYQHiker_农民影视",
-      "name": "‍农民┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/农民影视.json"
-    },
-
    {
       "key": "csp_XYQHiker_斗鱼直播",
       "name": "斗鱼┃直播",
