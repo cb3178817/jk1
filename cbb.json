@@ -6,8 +6,12 @@
 
  {"key": "豆瓣","name": "豆瓣┃搜索","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
  {"key": "360","name": "360┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
-{"key": "kuyun","name": "酷云┃77","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷云77.js"},
-		    {
+{"key": "kuyun","name": "酷云┃七七","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷云77.js"},
+  {"key":"探探","name":"┃影探┃4K","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
+
+	    {"key":"12","name":"┃1080┃","type":3,"playerType"https://api.1080kan.cn:4434/player/ec.php?code=qw&url="1","api":"https://www.1080kanju.com/api.php","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
+
+	  {
       "key": "drpy_js_机器人",
       "name": "爱看|影视",
       "type": 3,
