@@ -2,11 +2,15 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
   "spider": "./XYQ.jar;md5;703971fa0a5048fdf567245d4d4e1b06",
   "sites": [
-
-{"key": "csp_XYQHiker_柠檬TV2","name":"🧼┃柠檬TV┃直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/json/柠檬TV2.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/custom_spider.jar"},
  {"key": "豆瓣","name": "豆瓣┃搜索","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js"},
  {"key": "360","name": "360┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
 {"key": "kuyun","name": "酷云┃七七","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷云77.js"},
+	  {"key":"yrzj","name":"🎭┃伊人┃追剧","type":3,"api":"https://agit.ai/alanchaotang/if/raw/branch/main/js/yrzj_open.js"},
+{"key": "csp_lianyu","name": "🌧┃恋雨┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://mp4.ghlyys.com/api.php/app/"},
+{"key": "Mayiys", "name": "🐜┃蚂蚁┃影视", "type": 3, "api": "csp_Mayiys", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
+{"key": "DDMJ", "name": "🍚┃米酷┃视频", "type": 3, "api": "csp_DDMJ", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1, "ext":"http://103.222.188.33:6688" },
+{"key": "Maolv", "name": "🧸┃毛驴┃影视", "type": 3, "api": "csp_Maolv", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 },
+
 
 	{"key": "大鹏","name": "🦅┃大鹏┃4K","type": 3, "playerType": 1,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://s.ether-mine.com/api.php/app/"},
 
