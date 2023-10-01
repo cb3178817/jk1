@@ -165,6 +165,16 @@
       "filterable": 1,
       "ext": "./json/农民影视.json"
     },
+	    {
+      "key": "csp_XYQHiker_大豆影视",
+      "name": 大豆┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/大豆影视.json"
+    },
 
 	 {
       "key": "drpy_js_爱弹幕",
