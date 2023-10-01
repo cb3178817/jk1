@@ -89,6 +89,7 @@
         "体育"
       ]
     }, 
+	  {"key": "dr_大豆影院","name":"大豆┃影视","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/大豆.js"},
     
 {"key":"玩偶哥哥t4","name":"玩偶┃影视","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清&token=80373275ed4e449baf5f4847ebdf3a63","searchable":1,"changeable":0,"style":{ "type":"rect","ratio":0.75},"quickSearch":1,"filterable":1},
     {
@@ -164,16 +165,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/农民影视.json"
-    },
-	    {
-      "key": "csp_XYQHiker_大豆影视",
-     "name": "‍大豆┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/大豆影视.json"
     },
 
 	 {
